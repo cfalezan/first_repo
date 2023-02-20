@@ -1,0 +1,6 @@
+# Camille's experiment with github so fun!!!
+library(numDeriv)
+library(Rmpfr)
+
+getwd()
+mroz <- read.csv("mroz.csv")
